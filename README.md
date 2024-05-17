@@ -33,6 +33,15 @@ Projects with over 500 stargazers are in bold.
 
 * [ElasticSearch OpenSearch Migration Scripts](https://github.com/aparo/elasticsearch-opensearch-migration-scripts): Scripts useful to migrate code/plugins from ElasticSearch to OpenSearch
 
+## Framework Support
+
+* [Spring Data for OpenSearch](https://github.com/opensearch-project/spring-data-opensearch): The Spring Data OpenSearch project provides Spring Data compatible integration with the OpenSearch search engine.
+* [Micronaut OpenSearch](https://micronaut-projects.github.io/micronaut-opensearch/snapshot/guide/): Micronaut OpenSearch simplifies integration with OpenSearch. 
+
+## Books
+
+* [A Gentle Introduction to OpenSearch, by Mitch Seymour](https://opensearch.roundrobin.pub/#/): A young fox family copes with the increasing pickiness of their kits' eating habits. In the process, they discover a clever approach to searching for food.
+
 ## Support
 
 * [Official Web Site](https://opensearch.org)
